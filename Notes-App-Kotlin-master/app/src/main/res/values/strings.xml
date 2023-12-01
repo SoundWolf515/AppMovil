@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="item_date_tools_text">Hoy 12:34 PM</string>
+    <string name="hint_title_edit_text">Título</string>
+    <string name="hint_content_edit_text">Nota</string>
+    <string name="hint_search_notes">Buscar Notas</string>
+    <string name="item_title_tools_text">Compras</string>
+    <string name="item_content_tools_text">Teclado Mecanico Gamer Mintaka, Tarjeta Gráfica Msi Geforce Rtx 2070 8gb</string>
+    <string name="save">Guardar</string>
+    <string name="content_description_save">Boton para guardar la nota</string>
+    <string name="data_required">Por favor ingresar titulo y contenido</string>
+    <string name="list_message_notes">Las notas que agregues aparecerán aqui.</string>
+    <string name="title_delete_note_message">Eliminar Nota</string>
+    <string name="content_delete_note_message">¿Está seguro de que desea eliminar esta nota?</string>
+    <string name="cancel">No</string>
+    <string name="accept">Sí</string>
+</resources>
